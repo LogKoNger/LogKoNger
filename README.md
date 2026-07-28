@@ -145,14 +145,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 <br>
 
-### 🗺️ visitors from around the world
-<!-- [PLACEHOLDER] Free to use as-is via clustrmaps.com, but you need to register your profile URL there first to get a working map ID. -->
-
-<div align="center">
-<img src="https://clustrmaps.com/map_v2.png?d=YOUR_CLUSTRMAPS_ID" alt="visitor map">
-</div>
-
-<br>
 
 ### 🔗 find me around the internet
 
