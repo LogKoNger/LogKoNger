@@ -46,6 +46,85 @@
 
 ### ⏱️ coding activity (weekly)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 527 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 115 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                698 commits         ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+🌆 Daytime                808 commits         ████████░░░░░░░░░░░░░░░░░   32.58 % 
+🌃 Evening                920 commits         █████████░░░░░░░░░░░░░░░░   37.10 % 
+🌙 Night                  54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   493 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Tuesday                  578 commits         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Wednesday                240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Thursday                 402 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Friday                   217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Saturday                 364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Sunday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               6 repos             ████████████░░░░░░░░░░░░░   46.15 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/LogKoNger/LogKoNger/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/07/2026 08:06:51 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 contribution graph (3D)
