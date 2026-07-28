@@ -140,7 +140,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!-- [PLACEHOLDER] Requires a GitHub Action (Platane/snk) in your own repo to generate this file daily. -->
 
 <div align="center">
-<img src="https://github.com/LogKoNger/LogKoNger/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%">
 </div>
 
 <br>
