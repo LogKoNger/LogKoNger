@@ -131,7 +131,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!-- [PLACEHOLDER] Requires the 3D contribution calendar GitHub Action (yoshi389111/github-profile-3d-contrib) set up in your own repo to generate this SVG. -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-3d.svg" width="90%">
+<img src="https://github.com/LogKoNger/LogKoNger/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%">
 </div>
 
 <br>
