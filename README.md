@@ -17,11 +17,11 @@
 
 - 🎓 Studying Software Engineering @ **FPT University HCM**
 - 📱 Into **React Native** & **Expo** — building small, useful things
-- 🧪 Currently cooking up **ELCA-Connect**, a healthcare app repo (web + mobile)
+- 🧪 Currently cooking up **ELCA-Connect**, a healthcare app monorepo (web + mobile)
 - 🎨 Also tinkering with an **memora** on the side, just for fun
 - ☕ Fueled by coffee and stubbornness
-- 🎯 2026 goal: launch my first startup idea as successfully
-- 💬 Chat with me about: programming, startup ideas, or your favorite hobbies
+- 🎯 2026 goal: launch our first startup idea successfully
+- 💬 Chat with me about: programming, startup ideas, or your favorite hobbies ( if we're the same 💪)
 
 <br clear="right">
 
