@@ -54,7 +54,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 631 Bytes Used in GitHub's Storage 
+> 📦 637 Bytes Used in GitHub's Storage 
  > 
 > 🏆 129 Contributions in the Year 2026
  > 
@@ -91,46 +91,46 @@ Sunday                   186 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               6 hrs 1 min         ████████████████░░░░░░░░░   63.08 % 
-Markdown                 1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Python                   1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               3 hrs 55 mins       █████████████████░░░░░░░░   67.49 % 
+Markdown                 1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Scilab                   3 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.52 % 
-SWD392SciLab-FrontEnd    1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-elca-frontend            1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Unknown Project          1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-LogKoNger                57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+SWD392SciLab-FrontEnd    1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+Scilab                   1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+elca-frontend            1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+LogKoNger                57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+viettel-tool             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 💻 Operating System: 
-Windows                  9 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 35 mins (89.95%)
+⏱ AI Coding Time: 4 hrs 51 mins (83.51%)
 
-✍️ 8,004 lines written by AI, 210 lines written by hand (97.44% AI-written)
+✍️ 5,506 lines written by AI, 210 lines written by hand (96.33% AI-written)
 
-🔤 134,605,605 Input Tokens, 424,633 Output Tokens
+🔤 90,987,498 Input Tokens, 270,883 Output Tokens
 
-💵 $668.10 Estimated AI Cost This Week
+💵 $447.66 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 78 AI Prompts
+🧠 15 AI Sessions, 44 AI Prompts
 
-GPT                      8,805 lines         █████████████████████████   100.00 % 
+GPT                      5,737 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.44% of written lines came from AI
-📚 Verbose Prompter — average 9,447 characters per prompt
+🤖 AI-Driven — 96.33% of written lines came from AI
+📚 Verbose Prompter — average 9,557 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.44% of changed lines were hand-edited
+🚀 High AI Trust — 3.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +150,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LogKoNger/LogKoNger/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:52:01 UTC
+ Last Updated on 30/07/2026 20:00:56 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 contribution graph (3D)
