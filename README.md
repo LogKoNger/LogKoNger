@@ -54,7 +54,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 637 Bytes Used in GitHub's Storage 
+> 📦 640 Bytes Used in GitHub's Storage 
  > 
 > 🏆 129 Contributions in the Year 2026
  > 
@@ -91,56 +91,56 @@ Sunday                   186 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               3 hrs 55 mins       █████████████████░░░░░░░░   67.49 % 
-Markdown                 1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Markdown                 1 hr 23 mins        ████████████░░░░░░░░░░░░░   48.72 % 
+TypeScript               58 mins             █████████░░░░░░░░░░░░░░░░   34.22 % 
+YAML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SWD392SciLab-FrontEnd    1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-Scilab                   1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-elca-frontend            1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-LogKoNger                57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-viettel-tool             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+elca-frontend            1 hr 23 mins        ████████████░░░░░░░░░░░░░   48.18 % 
+LogKoNger                57 mins             ████████░░░░░░░░░░░░░░░░░   33.41 % 
+viettel-tool             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+SWD392SciLab-FrontEnd    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Scilab                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 💻 Operating System: 
-Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 51 mins (83.51%)
+⏱ AI Coding Time: 1 hr 54 mins (66.59%)
 
-✍️ 5,506 lines written by AI, 210 lines written by hand (96.33% AI-written)
+✍️ 4,022 lines written by AI, 210 lines written by hand (95.04% AI-written)
 
-🔤 90,987,498 Input Tokens, 270,883 Output Tokens
+🔤 52,925,057 Input Tokens, 160,027 Output Tokens
 
-💵 $447.66 Estimated AI Cost This Week
+💵 $267.18 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 44 AI Prompts
+🧠 6 AI Sessions, 16 AI Prompts
 
-GPT                      5,737 lines         █████████████████████████   100.00 % 
+GPT                      4,050 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.33% of written lines came from AI
-📚 Verbose Prompter — average 9,557 characters per prompt
+🤖 AI-Driven — 95.04% of written lines came from AI
+📚 Verbose Prompter — average 5,454 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.69% of changed lines were hand-edited
+🚀 High AI Trust — 5.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             ████████████░░░░░░░░░░░░░   46.15 % 
-JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -150,7 +150,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LogKoNger/LogKoNger/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 20:00:56 UTC
+ Last Updated on 31/07/2026 20:02:03 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 contribution graph (3D)
