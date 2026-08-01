@@ -46,15 +46,15 @@
 
 ### ⏱️ coding activity (weekly)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 640 Bytes Used in GitHub's Storage 
+> 📦 622 Bytes Used in GitHub's Storage 
  > 
 > 🏆 129 Contributions in the Year 2026
  > 
@@ -91,46 +91,46 @@ Sunday                   186 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 1 hr 23 mins        ████████████░░░░░░░░░░░░░   48.72 % 
-TypeScript               58 mins             █████████░░░░░░░░░░░░░░░░   34.22 % 
-YAML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+TypeScript               1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   37.69 % 
+Markdown                 1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+JSON                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+fish                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-elca-frontend            1 hr 23 mins        ████████████░░░░░░░░░░░░░   48.18 % 
-LogKoNger                57 mins             ████████░░░░░░░░░░░░░░░░░   33.41 % 
-viettel-tool             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-SWD392SciLab-FrontEnd    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Scilab                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+elca-frontend            1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+Viettel-AI-Bot-Assistant 1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+nest-learning            1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+LogKoNger                57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Scilab                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 54 mins (66.59%)
+⏱ AI Coding Time: 2 hrs 2 mins (42.54%)
 
-✍️ 4,022 lines written by AI, 210 lines written by hand (95.04% AI-written)
+✍️ 3,806 lines written by AI, 240 lines written by hand (94.07% AI-written)
 
-🔤 52,925,057 Input Tokens, 160,027 Output Tokens
+🔤 51,136,630 Input Tokens, 182,419 Output Tokens
 
-💵 $267.18 Estimated AI Cost This Week
+💵 $258.91 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 16 AI Prompts
+🧠 5 AI Sessions, 19 AI Prompts
 
-GPT                      4,050 lines         █████████████████████████   100.00 % 
+GPT                      3,834 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.04% of written lines came from AI
-📚 Verbose Prompter — average 5,454 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 5.15% of changed lines were hand-edited
+🤖 AI-Driven — 94.07% of written lines came from AI
+📚 Verbose Prompter — average 4,572 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 6.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +150,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LogKoNger/LogKoNger/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 20:02:03 UTC
+ Last Updated on 01/08/2026 19:42:08 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 contribution graph (3D)
