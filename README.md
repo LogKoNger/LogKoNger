@@ -46,15 +46,11 @@
 
 ### ⏱️ coding activity (weekly)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2029%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2018%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 649 Bytes Used in GitHub's Storage 
+> 📦 655 Bytes Used in GitHub's Storage 
  > 
 > 🏆 129 Contributions in the Year 2026
  > 
@@ -64,72 +60,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                698 commits         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-🌆 Daytime                822 commits         ████████░░░░░░░░░░░░░░░░░   32.96 % 
-🌃 Evening                920 commits         █████████░░░░░░░░░░░░░░░░   36.89 % 
-🌙 Night                  54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   493 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Tuesday                  592 commits         ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-Wednesday                240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Thursday                 402 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Friday                   217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Saturday                 364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Sunday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-JSON                     1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   37.21 % 
-TypeScript               1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   31.13 % 
-fish                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 36 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Viettel-AI-Bot-Assistant 2 hrs 26 mins       █████████████████░░░░░░░░   67.71 % 
-nest-learning            1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   32.29 % 
-
-💻 Operating System: 
-Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 32 mins (42.99%)
-
-✍️ 0 lines written by AI, 33 lines written by hand (0.0% AI-written)
-
-🔤 7,306,236 Input Tokens, 69,871 Output Tokens
-
-💵 $5.89 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 21 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,489 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -147,7 +77,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LogKoNger/LogKoNger/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:05:30 UTC
+ Last Updated on 07/08/2026 00:23:26 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 contribution graph (3D)
