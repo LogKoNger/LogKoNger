@@ -46,15 +46,15 @@
 
 ### ⏱️ coding activity (weekly)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 658 Bytes Used in GitHub's Storage 
+> 📦 685 Bytes Used in GitHub's Storage 
  > 
 > 🏆 134 Contributions in the Year 2026
  > 
@@ -67,21 +67,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                698 commits         ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-🌆 Daytime                826 commits         ████████░░░░░░░░░░░░░░░░░   33.07 % 
-🌃 Evening                920 commits         █████████░░░░░░░░░░░░░░░░   36.83 % 
-🌙 Night                  54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+🌞 Morning                704 commits         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+🌆 Daytime                842 commits         ████████░░░░░░░░░░░░░░░░░   33.03 % 
+🌃 Evening                941 commits         █████████░░░░░░░░░░░░░░░░   36.92 % 
+🌙 Night                  62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   493 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Tuesday                  592 commits         ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Wednesday                240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Thursday                 402 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Friday                   221 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Saturday                 364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Sunday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Monday                   503 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Tuesday                  623 commits         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Wednesday                240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Thursday                 402 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Friday                   225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Saturday                 364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Sunday                   192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 ```
 
 
@@ -91,45 +91,47 @@ Sunday                   186 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.49 % 
-JSON                     1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-fish                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+TypeScript               1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+Bash                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+JSON                     1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+TSConfig                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 47 mins       ████████████████████████░   97.48 % 
+Antigravity Desktop      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🐱‍💻 Projects: 
-Viettel-AI-Bot-Assistant 2 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.35 % 
-nest-demo                1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   31.96 % 
-nest-learning            1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-MSI-PC                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+nest-demo                2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.23 % 
+Viettel-AI-Bot-Assistant 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+telegram_bot             59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+elca-backend             46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+nest-learning            35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 44 mins (44.33%)
+⏱ AI Coding Time: 2 hrs 55 mins (49.26%)
 
-✍️ 54 lines written by AI, 160 lines written by hand (25.23% AI-written)
+✍️ 54 lines written by AI, 4,140 lines written by hand (1.29% AI-written)
 
-🔤 17,300,524 Input Tokens, 121,595 Output Tokens
+🔤 14,434,430 Input Tokens, 78,322 Output Tokens
 
-💵 $31.32 Estimated AI Cost This Week
+💵 $23.16 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 45 AI Prompts
+🧠 16 AI Sessions, 49 AI Prompts
 
 GPT                      54 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.23% of written lines came from AI
-📚 Verbose Prompter — average 2,307 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 80.99% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 1.29% of written lines came from AI
+📚 Verbose Prompter — average 2,138 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 99.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +151,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LogKoNger/LogKoNger/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:28:15 UTC
+ Last Updated on 08/08/2026 19:08:20 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 contribution graph (3D)
