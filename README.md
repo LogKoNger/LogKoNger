@@ -46,15 +46,15 @@
 
 ### ⏱️ coding activity (weekly)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 685 Bytes Used in GitHub's Storage 
+> 📦 737 Bytes Used in GitHub's Storage 
  > 
 > 🏆 134 Contributions in the Year 2026
  > 
@@ -91,47 +91,49 @@ Sunday                   192 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-Bash                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-JSON                     1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-TSConfig                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+TypeScript               1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+JSON                     1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Bash                     1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+TSConfig                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 47 mins       ████████████████████████░   97.48 % 
-Antigravity Desktop      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+VS Code                  5 hrs 33 mins       ██████████████████████░░░   88.02 % 
+Antigravity Desktop      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 
 🐱‍💻 Projects: 
-nest-demo                2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.23 % 
-Viettel-AI-Bot-Assistant 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-telegram_bot             59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-elca-backend             46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-nest-learning            35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+nest-demo                2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.13 % 
+elca-frontend            1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+telegram_bot             1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+elca-backend             46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+nest-learning            35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 
 💻 Operating System: 
-Windows                  5 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 55 mins (49.26%)
+⏱ AI Coding Time: 3 hrs 16 mins (51.82%)
 
-✍️ 54 lines written by AI, 4,140 lines written by hand (1.29% AI-written)
+✍️ 102 lines written by AI, 4,138 lines written by hand (2.41% AI-written)
 
-🔤 14,434,430 Input Tokens, 78,322 Output Tokens
+🔤 10,295,426 Input Tokens, 70,154 Output Tokens
 
-💵 $23.16 Estimated AI Cost This Week
+💵 $27.01 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 49 AI Prompts
+🧠 19 AI Sessions, 49 AI Prompts
 
-GPT                      54 lines            █████████████████████████   100.00 % 
+Antigravity-Desktop      67 lines            █████████████░░░░░░░░░░░░   53.17 % 
+GPT                      54 lines            ███████████░░░░░░░░░░░░░░   42.86 % 
+Gemini                   5 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.29% of written lines came from AI
-📚 Verbose Prompter — average 2,138 characters per prompt
+🧑‍💻 Mostly Hands-On — 2.41% of written lines came from AI
+📚 Verbose Prompter — average 1,864 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 99.44% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -151,7 +153,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LogKoNger/LogKoNger/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:08:20 UTC
+ Last Updated on 09/08/2026 19:11:16 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 contribution graph (3D)
