@@ -38,7 +38,7 @@
 ### 🧰 stuff i vibe with
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,mongodb,figma,postman,vscode,git,github,mysql,prisma,tailwind&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,mongodb,figma,postman,vscode,git,github,mysql,prisma,tailwind,postgresql,aws,vercel&theme=light" />
 </div>
 
 <br>
