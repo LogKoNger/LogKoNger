@@ -44,117 +44,9 @@
 <br>
 
 
-### ⏱️ coding activity (weekly)
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2035%20mins-blue?style=flat)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LogKoNger&langs_count=10&theme=onedark)](https://github-stats-extended.vercel.app/api/top-langs?username=LogKoNger&langs_count=10&theme=onedark)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2035%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 737 Bytes Used in GitHub's Storage 
- > 
-> 🏆 134 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                704 commits         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-🌆 Daytime                842 commits         ████████░░░░░░░░░░░░░░░░░   33.03 % 
-🌃 Evening                941 commits         █████████░░░░░░░░░░░░░░░░   36.92 % 
-🌙 Night                  62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   503 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Tuesday                  623 commits         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Wednesday                240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Thursday                 402 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Friday                   225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Saturday                 364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Sunday                   192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-TypeScript               1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-JSON                     1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Bash                     1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-TSConfig                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 33 mins       ██████████████████████░░░   88.02 % 
-Antigravity Desktop      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-
-🐱‍💻 Projects: 
-nest-demo                2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.13 % 
-elca-frontend            1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-telegram_bot             1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-elca-backend             46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-nest-learning            35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-
-💻 Operating System: 
-Windows                  6 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 16 mins (51.82%)
-
-✍️ 102 lines written by AI, 4,138 lines written by hand (2.41% AI-written)
-
-🔤 10,295,426 Input Tokens, 70,154 Output Tokens
-
-💵 $27.01 Estimated AI Cost This Week
-
-🧠 19 AI Sessions, 49 AI Prompts
-
-Antigravity-Desktop      67 lines            █████████████░░░░░░░░░░░░   53.17 % 
-GPT                      54 lines            ███████████░░░░░░░░░░░░░░   42.86 % 
-Gemini                   5 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.41% of written lines came from AI
-📚 Verbose Prompter — average 1,864 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 98.69% of changed lines were hand-edited
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/LogKoNger/LogKoNger/main/assets/bar_graph.png)
-
-
- Last Updated on 09/08/2026 19:11:16 UTC
-<!--END_SECTION:waka-->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LogKoNger&show_icons=true&include_all_commits=true&theme=ayu-mirage)](https://github-stats-extended.vercel.app/api?username=LogKoNger&show_icons=true&include_all_commits=true&theme=ayu-mirage)
 
 ### 📈 contribution graph (3D)
 <!-- [PLACEHOLDER] Requires the 3D contribution calendar GitHub Action (yoshi389111/github-profile-3d-contrib) set up in your own repo to generate this SVG. -->
@@ -165,16 +57,6 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 <br>
 
-### 🐍 contribution snake
-<!-- [PLACEHOLDER] Requires a GitHub Action (Platane/snk) in your own repo to generate this file daily. -->
-
-<div align="center">
-    <picture>
-     <img alt="github contribution grid snake animation" src="https://github.com/LogKoNger/LogKoNger/blob/output/github-contribution-grid-snake.svg">
-    </picture>
-</div>
-
-<br>
 
 
 ### 🔗 find me around the internet
