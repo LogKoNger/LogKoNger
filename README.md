@@ -44,8 +44,9 @@
 <br>
 
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LogKoNger&custom_title=My%20Vibe%20%20Stats&show_icons=true&include_all_commits=true&theme=darcula)](https://github-stats-extended.vercel.app/api?username=LogKoNger&custom_title=My%20Vibe%20%20Stats&show_icons=true&include_all_commits=true&theme=darcula)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LogKoNger&langs_count=6&theme=darcula)](https://github-stats-extended.vercel.app/api/top-langs?username=LogKoNger&langs_count=6&theme=darcula)
 
 ### 📈 contribution graph (3D)
 <!-- [PLACEHOLDER] Requires the 3D contribution calendar GitHub Action (yoshi389111/github-profile-3d-contrib) set up in your own repo to generate this SVG. -->
