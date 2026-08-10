@@ -13,15 +13,15 @@
 
 <img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY5aGpkMXhzazZ5dXZ2ZjdrcHF0dXZ4MGwyYWZ0eWwyZzF5Y3RpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" alt="coding gif">
 
-### 🌱 a lil' bit about me
+###  a lil' bit about me
 
-- 🎓 Studying Software Engineering @ **FPT University HCM**
-- 📱 Into **React Native** & **Expo** — building small, useful things
-- 🧪 Currently cooking up **ELCA-Connect**, a healthcare app monorepo (web + mobile)
-- 🎨 Also tinkering with an **memora** on the side, just for fun
-- ☕ Fueled by coffee and stubbornness
-- 🎯 2026 goal: launch our first startup idea successfully
-- 💬 Chat with me about: programming, startup ideas, or your favorite hobbies ( if we're the same 💪)
+-  Studying Software Engineering @ **FPT University HCM**
+-  Into **React Native** & **Expo** — building small, useful things
+-  Currently cooking up **ELCA-Connect**, a healthcare app monorepo (web + mobile)
+-  Also tinkering with an **memora** on the side, just for fun
+-  Fueled by ☕ and stubbornness
+-  2026 goal: launch our first startup idea successfully
+-  Chat with me about: programming, startup ideas, or your favorite hobbies ( if we're the same 💪)
 
 <br clear="right">
 
@@ -43,6 +43,7 @@
 
 <br>
 
+### 📄 My Vibe Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LogKoNger&custom_title=My%20Vibe%20%20Stats&show_icons=true&include_all_commits=true&theme=darcula)](https://github-stats-extended.vercel.app/api?username=LogKoNger&custom_title=My%20Vibe%20%20Stats&show_icons=true&include_all_commits=true&theme=darcula)
 
