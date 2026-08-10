@@ -44,9 +44,8 @@
 <br>
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LogKoNger&langs_count=10&theme=onedark)](https://github-stats-extended.vercel.app/api/top-langs?username=LogKoNger&langs_count=10&theme=onedark)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LogKoNger&show_icons=true&include_all_commits=true&theme=ayu-mirage)](https://github-stats-extended.vercel.app/api?username=LogKoNger&show_icons=true&include_all_commits=true&theme=ayu-mirage)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ### 📈 contribution graph (3D)
 <!-- [PLACEHOLDER] Requires the 3D contribution calendar GitHub Action (yoshi389111/github-profile-3d-contrib) set up in your own repo to generate this SVG. -->
