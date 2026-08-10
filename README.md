@@ -73,7 +73,7 @@
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=f7a072&style=flat&label=profile+visits" />
+<img src="https://komarev.com/ghpvc/?username=LogKoNger&color=f7a072&style=flat&label=profile+visits" />
 </div>
 
 <div align="center">
